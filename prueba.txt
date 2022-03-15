@@ -1,0 +1,17 @@
+<html>
+<title>
+Hola Hola
+</title>
+
+<body>
+
+<strong><h2>Bienvenidos...</h2></strong>
+</h1><br>Mi nombre es Marisol Hernandez Garcia
+<IMG SRC="C:\Users\Sol\Pictures\sol.jpeg"align=left width=180 >
+mi color favorito es el azul, me gusta pasar mi tiempo libre con mi familia,
+mi deporte favorito es el futbol.
+</br></h1>
+
+
+</body>
+</html>
